@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on SEO
 - 📫 How to reach me WHATSAPP @8078101808
 - 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am Batman
 
 <!---
 abhinav-krishna-cs/abhinav-krishna-cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
