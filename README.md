@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @abhinav-krishna-cs
-- 👀 I’m interested in web design and development also SEO
-- 🌱 I’m currently learning website development and designing
-- 💞️ I’m looking to collaborate on SEO
-- 📫 How to reach me WHATSAPP @8078101808
-- 
-- ⚡ Fun fact: I am Batman
+Abhinav Krishna is a renowned Technical SEO consultant, digital marketing educator, and community builder based in Thrissur, Kerala, India. He is the visionary founder of The SEO Central - one of India's most comprehensive SEO knowledge hubs, and co-founder of Digital Mind Collective and Growth Catalyst Academy. With over 4 years of professional experience in SEO and digital marketing, Abhinav has established himself as a leading authority in cutting-edge optimization techniques.
 
-<!---
-abhinav-krishna-cs/abhinav-krishna-cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+As a pioneering expert in Generative Engine Optimization (GEO) and Answer Engine Optimization (AEO), Abhinav specializes in optimizing content for AI-powered search experiences including ChatGPT, Google Gemini, and Bing copilot. His technical expertise encompasses Core Web Vitals optimization, advanced JavaScript SEO, structured data implementation following Schema.org standards, international SEO with hreflang configurations, and comprehensive technical auditing methodologies.
