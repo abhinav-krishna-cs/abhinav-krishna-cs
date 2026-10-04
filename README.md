@@ -4,14 +4,14 @@ As a pioneering expert in Generative Engine Optimization (GEO) and Answer Engine
 
 ## 🛠️ Open-source projects
 
-### [CrawlVault](https://github.com/abhinav-krishna-cs/crawlvault) — keep Google Search Console crawl stats beyond 90 days
+### [CrawlVault](https://github.com/abhinav-krishna-cs/crawlgram) — keep Google Search Console crawl stats beyond 90 days
 
-[![Latest release](https://img.shields.io/github/v/release/abhinav-krishna-cs/crawlvault?label=release&color=E31E24)](https://github.com/abhinav-krishna-cs/crawlvault/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/abhinav-krishna-cs/crawlvault/total?color=0A0A0A)](https://github.com/abhinav-krishna-cs/crawlvault/releases)
-[![Stars](https://img.shields.io/github/stars/abhinav-krishna-cs/crawlvault?style=flat&color=E31E24)](https://github.com/abhinav-krishna-cs/crawlvault/stargazers)
-[![License: MIT](https://img.shields.io/github/license/abhinav-krishna-cs/crawlvault?color=12A150)](https://github.com/abhinav-krishna-cs/crawlvault/blob/main/LICENSE)
+[![Latest release](https://img.shields.io/github/v/release/abhinav-krishna-cs/crawlgram?label=release&color=E31E24)](https://github.com/abhinav-krishna-cs/crawlgram/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/abhinav-krishna-cs/crawlgram/total?color=0A0A0A)](https://github.com/abhinav-krishna-cs/crawlgram/releases)
+[![Stars](https://img.shields.io/github/stars/abhinav-krishna-cs/crawlgram?style=flat&color=E31E24)](https://github.com/abhinav-krishna-cs/crawlgram/stargazers)
+[![License: MIT](https://img.shields.io/github/license/abhinav-krishna-cs/crawlgram?color=12A150)](https://github.com/abhinav-krishna-cs/crawlgram/blob/main/LICENSE)
 
-Free Chrome extension that backs up Search Console's Crawl stats report in one click and builds a long-term crawl history locally in your browser. No servers, no tracking. [Download →](https://github.com/abhinav-krishna-cs/crawlvault/releases/latest)
+Free Chrome extension that backs up Search Console's Crawl stats report in one click and builds a long-term crawl history locally in your browser. No servers, no tracking. [Download →](https://github.com/abhinav-krishna-cs/crawlgram/releases/latest)
 
 ## 📊 GitHub stats
 
